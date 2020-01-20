@@ -26,4 +26,4 @@ I thought it was Python because it's so easy to manage and it was really intuiti
 
 ### Favorite food
 
-This is a tough one. It's like trying to think of a favorite song. I'd have to go with ...... adobo.
+This is a tough one. It's like trying to think of a favorite song. I'd have to go with ..... adobo.
