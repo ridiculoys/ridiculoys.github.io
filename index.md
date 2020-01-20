@@ -1,15 +1,73 @@
-## Welcome to GitHub Pages
+## Welcome to Louise Gabrielle Talip's page
 
-You can use the [editor on GitHub](https://github.com/ridiculoys/ridiculoys.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can now see Louise's personal information down belo as per requirement in the first exercist of the CMSC 100 Web Programming class section V - 1L.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you really want to know more about her, you can go to her her [Facebook Account](https://facebook.com/ridiculoys) and stalk her there or message her at lltalip@up.edu.ph
 
-### Markdown
+Guidelines:
+1. Include the following information in the GitHub page:
+1.1. Name
+1.2. Nickname
+1.3. Favorite CMSC subject so far and why
+1.4. Favorite GE so far and why
+1.5. Favorite PL and why
+1.6. Favorite Food
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Name
+
+My name is Louise Gabrielle Talip.
+
+### Nickname
+
+However, most of my close friends call me ### Loys. As you can probably tell, my name is not only difficult to spell, it is also (apparently) difficult to pronounce without some guidance. My friends have created a fool-proof solution that resulted into this nickname.
+
+### Favorite CMSC subject so far and why
+
+However, most of my close friends call me ### Loys. As you can probably tell, my name is not only difficult to spell, it is also (apparently) difficult to pronounce without some guidance. My friends have created a fool-proof solution that resulted into this nickname.
+
+
+### Favorite GE so far and why
+
+However, most of my close friends call me ### Loys. As you can probably tell, my name is not only difficult to spell, it is also (apparently) difficult to pronounce without some guidance. My friends have created a fool-proof solution that resulted into this nickname.
+
+### Favorite Programming Language and why
+
+However, most of my close friends call me ### Loys. As you can probably tell, my name is not only difficult to spell, it is also (apparently) difficult to pronounce without some guidance. My friends have created a fool-proof solution that resulted into this nickname.
+
+### Favorite food
+
+This is a tough one.
+
+
+## Additional Information that has sadly been separated from the Master branch
+
+### Hobbies
+
+These are the things that I enjoy doing - both productive and unproductive.
 
 ```markdown
-Syntax highlighted code block
+- Programming (I enjoy both competitive and non-competitive programming; Let's go ELIENS!)
+- Playing Musical Instruments
+- Reading
+- Solving puzzles (my friends shun me as I stay in the corner playing with rubik's cubes, sudoku, and minesweeper)
+- Biking
+- Baking
+- Playing Games (ranging from physical games to board games to video games!) 
+
+That's it at the top of my head right now.....
+
+```
+
+### Childhood Dreams
+
+These are the things that I enjoy doing - both productive and unproductive.
+
+```markdown
+I think I had quite a few childhood dreams.
+
+1. Astronaut (yes, that was pretty high on my list
+2. List
+
 
 # Header 1
 ## Header 2
@@ -24,14 +82,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ridiculoys/ridiculoys.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
