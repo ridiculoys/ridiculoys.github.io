@@ -27,3 +27,37 @@ I thought it was Python because it's so easy to manage and it was really intuiti
 ### Favorite food
 
 This is a tough one. It's like trying to think of a favorite song. I'd have to go with ..... adobo.
+
+## Additional Information that has sadly been separated from the Master branch
+
+### Hobbies
+
+These are the things that I enjoy doing - both productive and unproductive.
+
+```markdown
+- Programming (I enjoy both competitive and non-competitive programming; Let's go ELIENS!)
+- Playing Musical Instruments
+- Reading
+- Solving puzzles (my friends shun me as I stay in the corner playing with rubik's cubes, sudoku, and minesweeper)
+- Biking
+- Baking
+- Playing Games (ranging from physical games to board games to video games!) 
+
+That's it at the top of my head right now.....
+
+```
+
+### Childhood Dreams
+
+These are the things that I enjoy doing - both productive and unproductive.
+
+```markdown
+I think I had quite a few childhood dreams.
+
+1. Astronaut (yes, that was pretty high on my list. Working with NASA was THE dream)
+2. Entertainer (I was into music. Still am, but I don't dedicate a lot of time to it anymore)
+3. I honestly thought being a magician was a viable option, but apparently nto according to my conservative family
+4. I also thought animation was something I could do, but oh welp
+
+I think those are the only ones I can think off of the top of my head as well, and oh look at the time. It's 6:37pm, I need to submit this exer.
+```
